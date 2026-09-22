@@ -26,9 +26,15 @@ The prototype operates locally without requiring an internet connection.
 
 ## Demonstration
 
-**Demonstration video:** Coming soon.
+## Project Demonstration
 
-A video demonstrating the completed prototype and its proximity-based vibration feedback will be added here.
+[![Watch the Walking Stick Demonstration](https://img.youtube.com/vi/aeFKVFRX7Ho/hqdefault.jpg)](https://youtu.be/aeFKVFRX7Ho)
+
+**[▶ Watch the Full Demonstration on YouTube](https://youtu.be/aeFKVFRX7Ho)**
+
+This video demonstrates our team's Raspberry Pi-based obstacle-detection walking stick, which uses two ultrasonic sensors to detect nearby objects and adjusts vibration intensity based on obstacle proximity.
+
+The system was developed using Python, GPIO, and PWM-controlled haptic feedback.
 
 ---
 
