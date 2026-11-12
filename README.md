@@ -24,8 +24,6 @@ The prototype operates locally without requiring an internet connection.
 
 ---
 
-## Demonstration
-
 ## Project Demonstration
 
 [![Watch the Walking Stick Demonstration](https://img.youtube.com/vi/aeFKVFRX7Ho/hqdefault.jpg)](https://youtu.be/aeFKVFRX7Ho)
